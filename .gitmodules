@@ -1,0 +1,4 @@
+[submodule "asuswrt"]
+	path = asuswrt
+	url = https://github.com/bender647/asuswrt-382
+	branch = master
